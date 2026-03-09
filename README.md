@@ -51,8 +51,8 @@ Users should be able to:
 
 - How to center <img>:
     - Using {margin: auto;} Must convert image first to a block element since is an inline element.
-    - Using {display: flex;} Put the <img> element inside a <div> and apply justify-content: center.
-    - Vertical - Horizontal aligment: using flex, with <img> inside of a <div>:
+    - Using {display: flex;} Put the image element inside a div and apply justify-content: center.
+    - Vertical - Horizontal aligment: using flex, with img inside of a div:
 
         ```html
         <div>
