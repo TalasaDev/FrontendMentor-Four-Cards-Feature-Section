@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot-mobile-four-card-feature- section.png)
+![](./screenshot-mobile-four-card-feature-section.png)
 ![](./screenshot-desktop-four-card-feature-section.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/TalasaDev/FrontendMentor-Four-Cards-Feature-Section/tree/main))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
